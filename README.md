@@ -1,5 +1,8 @@
 # mobapp2024q3
 
+Template for Simple Mobile App w/ Animated Splash
+FVM use 3.19.2
+
 A new Flutter project.
 
 ## Getting Started
